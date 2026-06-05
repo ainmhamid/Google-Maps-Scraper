@@ -1,0 +1,36 @@
+eateries in kuala lumpur 
+eateries in ampang jaya 
+eateries in petaling jaya 
+eateries in shah alam 
+eateries in subang jaya 
+eateries in putrajaya 
+eateries in nilai 
+shop in kuala lumpur 
+shop in ampang jaya 
+shop in petaling jaya 
+shop in shah alam 
+shop in subang jaya 
+shop in putrajaya 
+shop in nilai 
+activity in kuala lumpur 
+activity in ampang jaya 
+activity in petaling jaya 
+activity in shah alam 
+activity in subang jaya 
+activity in putrajaya 
+activity in nilai 
+tourist attraction in kuala lumpur 
+tourist attraction in ampang jaya 
+tourist attraction in petaling jaya 
+tourist attraction in shah alam 
+tourist attraction in subang jaya 
+tourist attraction in putrajaya 
+tourist attraction in nilai
+hotel in kuala lumpur 
+hotel in ampang jaya 
+hotel in petaling jaya 
+hotel in shah alam 
+hotel in subang jaya 
+hotel in putrajaya 
+hotel in nilai 
+
